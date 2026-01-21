@@ -1,0 +1,22 @@
+cc 01
+cc 02
+<byte.write 1 "[echo 'STARTING BIOS FLASH...']"
+<byte.write 2 "stop"
+<byte.write 3 "4.5GHz"
+<byte.write 10 "2048"
+<byte.write 11 "2048"
+<byte.write 15 "true"
+cc 03
+cc 04
+cc 05
+cc 06
+cc 07
+cc 08
+cc 09
+cc 10
+cc 11
+cc 12
+cc 13
+cc 14
+cc 15
+cc 16

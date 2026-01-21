@@ -1,0 +1,3 @@
+VERY IMPORTANT
+ you WILL need a python 3.10+ interpreter to be able to run the chalk universal 
+.py file 
