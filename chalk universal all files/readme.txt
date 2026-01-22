@@ -117,3 +117,5 @@ example: chalk used to need a stk (stack, a programing language that used to acc
 
 
 there is also another version of chalk (chalk v4.1) that only runs on a specific computer, file system ect but that will not be released to the public because it only run on a very specific computer. have fun!
+
+also be sure all files are in you desktop!
